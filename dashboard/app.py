@@ -940,7 +940,10 @@ elif page == "search":
     st.markdown("# :mag: Patent Search")
     st.markdown(
         "Full-text search across **9M+ patents** using the FTS5 index "
-        "*(Porter stemming: **computing** matches **compute**, **computers**, etc.)*"
+        "*(Porter stemming: **computing** matches **compute**, **computers**, etc.)*" \
+        "" \
+        "Doesnt work in the deployed version since the database is not included, but you can run it locally with the full database and FTS index built by `reports.py`. Please heck the provided Dashboard Screenshots for example query and results."
+
     )
     st.markdown("---")
 
@@ -961,7 +964,7 @@ elif page == "search":
             st.warning(f"No patents found for **'{query}'**.")
             st.markdown("**Tips:** Try shorter terms, check spelling, use single concepts.")
         else:
-            st.success(f"✅ {len(results):,} results (capped at {limit})")
+            st.success(f" {len(results):,} results (capped at {limit})")
 
             # Result KPIs
             k1, k2, k3, k4 = st.columns(4)
