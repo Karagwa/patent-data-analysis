@@ -942,7 +942,7 @@ elif page == "search":
         "Full-text search across **9M+ patents** using the FTS5 index "
         "*(Porter stemming: **computing** matches **compute**, **computers**, etc.)*" \
         "" \
-        "Doesnt work in the deployed version since the database is not included, but you can run it locally with the full database and FTS index built by `reports.py`. Please heck the provided Dashboard Screenshots for example query and results."
+        "  Doesn't work in the deployed version since the database is not included, but you can run it locally with the full database and FTS index built by `reports.py`. Please check the provided Dashboard Screenshots for example query and results."
 
     )
     st.markdown("---")
