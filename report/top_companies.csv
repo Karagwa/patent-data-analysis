@@ -1,0 +1,21 @@
+company_id,name,assignee_type,patent_count
+533e0469-baac-46b7-9576-669db08092eb,"SAMSUNG DISPLAY CO., LTD.",organisation,174536
+29b8f534-149e-443c-b76b-3c4a222da89c,International Business Machines Corporation,organisation,164083
+dfdf1f1a-8f22-41dc-a7f0-855bde20ca67,CANON KABUSHIKI KAISHA,organisation,91331
+55bc7465-2823-418d-9835-41d555c610a6,SONY GROUP CORPORATION,organisation,62911
+5952964e-63c6-4284-9012-0fdd0643f715,Fujitsu Limited,organisation,56343
+4ef2b9c8-d3e7-40d6-ac53-8694d8fe890f,Kabushiki Kaisha Toshiba,organisation,53607
+55715b8e-9037-47c9-8e27-a2acf13d6047,Intel Corporation,organisation,53219
+b904f566-62d6-44a5-8689-7b5c5a3a1a19,General Electric Company,organisation,52043
+906da649-dd98-4eac-a78c-d5dc3cc385b1,LG ELECTRONICS INC.,organisation,50000
+93f8c962-7a18-45c0-b192-7a141f9a8b6c,"HITACHI, LTD.",organisation,46073
+74c11be2-20ec-49fe-ac26-d839d375bd32,MITSUBISHI ELECTRIC CORPORATION,organisation,45743
+f03635c8-6b6c-4f2b-bb6c-b52678f56aae,QUALCOMM Incorporated,organisation,41723
+88c962da-6df3-4f86-85ba-14c24c3cb600,"Taiwan Semiconductor Manufacturing Company, Ltd.",organisation,40871
+87bbd77e-54e0-4d95-9c1b-7843963c09eb,TOYOTA JIDOSHA KABUSHIKI KAISHA,organisation,39414
+38cff6e0-fc52-4faf-9fa9-b72912600dee,Apple Inc.,organisation,39060
+77b0e539-7552-487c-8171-df9127f7fa66,"SUMITOMO ELECTRIC INDUSTRIES, LTD.",organisation,38360
+e26f6502-4416-481e-b15a-e69178b15dfc,"Micron Technology, Inc.",organisation,38112
+9971439c-aa8f-4cf2-b787-3b80dc992cfa,NEC CORPORATION,organisation,36209
+877b4262-7552-45e3-adc3-c484b3095cf3,SEIKO EPSON CORPORATION,organisation,33863
+7fd570bb-8d88-4ad9-832b-532add7b7500,"HONDA MOTOR CO., LTD.",organisation,32298

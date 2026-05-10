@@ -1,0 +1,1040 @@
+{
+  "total_patents": 9331352,
+  "total_inventors": 4294032,
+  "total_companies": 572495,
+  "year_range": {
+    "from": 1976,
+    "to": 2025
+  },
+  "top_inventors": [
+    {
+      "name": "Shunpei Yamazaki",
+      "patents": 6787,
+      "country": "JP"
+    },
+    {
+      "name": "Kia Silverbrook",
+      "patents": 4778,
+      "country": "AU"
+    },
+    {
+      "name": "Tao Luo",
+      "patents": 4490,
+      "country": "US"
+    },
+    {
+      "name": "Jonathan P. Ive",
+      "patents": 2947,
+      "country": "US"
+    },
+    {
+      "name": "Junyi Li",
+      "patents": 2881,
+      "country": "US"
+    },
+    {
+      "name": "Kangguo Cheng",
+      "patents": 2835,
+      "country": "US"
+    },
+    {
+      "name": "Frederick E. Shelton, IV",
+      "patents": 2723,
+      "country": "US"
+    },
+    {
+      "name": "Peter Gaal",
+      "patents": 2554,
+      "country": "US"
+    },
+    {
+      "name": "Duncan Robert Kerr",
+      "patents": 2534,
+      "country": "US"
+    },
+    {
+      "name": "Bartley K. Andre",
+      "patents": 2478,
+      "country": "US"
+    }
+  ],
+  "top_companies": [
+    {
+      "name": "SAMSUNG DISPLAY CO., LTD.",
+      "patents": 174536,
+      "assignee_type": "organisation"
+    },
+    {
+      "name": "International Business Machines Corporation",
+      "patents": 164083,
+      "assignee_type": "organisation"
+    },
+    {
+      "name": "CANON KABUSHIKI KAISHA",
+      "patents": 91331,
+      "assignee_type": "organisation"
+    },
+    {
+      "name": "SONY GROUP CORPORATION",
+      "patents": 62911,
+      "assignee_type": "organisation"
+    },
+    {
+      "name": "Fujitsu Limited",
+      "patents": 56343,
+      "assignee_type": "organisation"
+    },
+    {
+      "name": "Kabushiki Kaisha Toshiba",
+      "patents": 53607,
+      "assignee_type": "organisation"
+    },
+    {
+      "name": "Intel Corporation",
+      "patents": 53219,
+      "assignee_type": "organisation"
+    },
+    {
+      "name": "General Electric Company",
+      "patents": 52043,
+      "assignee_type": "organisation"
+    },
+    {
+      "name": "LG ELECTRONICS INC.",
+      "patents": 50000,
+      "assignee_type": "organisation"
+    },
+    {
+      "name": "HITACHI, LTD.",
+      "patents": 46073,
+      "assignee_type": "organisation"
+    }
+  ],
+  "top_countries": [
+    {
+      "country": "US",
+      "patents": 5152235,
+      "share": 0.545
+    },
+    {
+      "country": "JP",
+      "patents": 1596388,
+      "share": 0.1689
+    },
+    {
+      "country": "DE",
+      "patents": 632808,
+      "share": 0.0669
+    },
+    {
+      "country": "CN",
+      "patents": 503914,
+      "share": 0.0533
+    },
+    {
+      "country": "KR",
+      "patents": 441206,
+      "share": 0.0467
+    },
+    {
+      "country": "TW",
+      "patents": 326572,
+      "share": 0.0345
+    },
+    {
+      "country": "GB",
+      "patents": 295191,
+      "share": 0.0312
+    },
+    {
+      "country": "CA",
+      "patents": 268412,
+      "share": 0.0284
+    },
+    {
+      "country": "FR",
+      "patents": 253366,
+      "share": 0.0268
+    },
+    {
+      "country": "CH",
+      "patents": 122076,
+      "share": 0.0129
+    }
+  ],
+  "patents_per_year": [
+    {
+      "year": 1976,
+      "patent_count": 71046
+    },
+    {
+      "year": 1977,
+      "patent_count": 71543
+    },
+    {
+      "year": 1978,
+      "patent_count": 71046
+    },
+    {
+      "year": 1979,
+      "patent_count": 71120
+    },
+    {
+      "year": 1980,
+      "patent_count": 72129
+    },
+    {
+      "year": 1981,
+      "patent_count": 69238
+    },
+    {
+      "year": 1982,
+      "patent_count": 70781
+    },
+    {
+      "year": 1983,
+      "patent_count": 67612
+    },
+    {
+      "year": 1984,
+      "patent_count": 73596
+    },
+    {
+      "year": 1985,
+      "patent_count": 78472
+    },
+    {
+      "year": 1986,
+      "patent_count": 81997
+    },
+    {
+      "year": 1987,
+      "patent_count": 89163
+    },
+    {
+      "year": 1988,
+      "patent_count": 98294
+    },
+    {
+      "year": 1989,
+      "patent_count": 104499
+    },
+    {
+      "year": 1990,
+      "patent_count": 108566
+    },
+    {
+      "year": 1991,
+      "patent_count": 109592
+    },
+    {
+      "year": 1992,
+      "patent_count": 113347
+    },
+    {
+      "year": 1993,
+      "patent_count": 118370
+    },
+    {
+      "year": 1994,
+      "patent_count": 135178
+    },
+    {
+      "year": 1995,
+      "patent_count": 157411
+    },
+    {
+      "year": 1996,
+      "patent_count": 158433
+    },
+    {
+      "year": 1997,
+      "patent_count": 184236
+    },
+    {
+      "year": 1998,
+      "patent_count": 183966
+    },
+    {
+      "year": 1999,
+      "patent_count": 197162
+    },
+    {
+      "year": 2000,
+      "patent_count": 214632
+    },
+    {
+      "year": 2001,
+      "patent_count": 228021
+    },
+    {
+      "year": 2002,
+      "patent_count": 228953
+    },
+    {
+      "year": 2003,
+      "patent_count": 220579
+    },
+    {
+      "year": 2004,
+      "patent_count": 221454
+    },
+    {
+      "year": 2005,
+      "patent_count": 226484
+    },
+    {
+      "year": 2006,
+      "patent_count": 231707
+    },
+    {
+      "year": 2007,
+      "patent_count": 240271
+    },
+    {
+      "year": 2008,
+      "patent_count": 241976
+    },
+    {
+      "year": 2009,
+      "patent_count": 233384
+    },
+    {
+      "year": 2010,
+      "patent_count": 248378
+    },
+    {
+      "year": 2011,
+      "patent_count": 268845
+    },
+    {
+      "year": 2012,
+      "patent_count": 294135
+    },
+    {
+      "year": 2013,
+      "patent_count": 313037
+    },
+    {
+      "year": 2014,
+      "patent_count": 322941
+    },
+    {
+      "year": 2015,
+      "patent_count": 335504
+    },
+    {
+      "year": 2016,
+      "patent_count": 347506
+    },
+    {
+      "year": 2017,
+      "patent_count": 362810
+    },
+    {
+      "year": 2018,
+      "patent_count": 368381
+    },
+    {
+      "year": 2019,
+      "patent_count": 390248
+    },
+    {
+      "year": 2020,
+      "patent_count": 367541
+    },
+    {
+      "year": 2021,
+      "patent_count": 330843
+    },
+    {
+      "year": 2022,
+      "patent_count": 270944
+    },
+    {
+      "year": 2023,
+      "patent_count": 182698
+    },
+    {
+      "year": 2024,
+      "patent_count": 74525
+    },
+    {
+      "year": 2025,
+      "patent_count": 8758
+    }
+  ],
+  "top_inventor_rankings": [
+    {
+      "rank": 1,
+      "name": "Shunpei Yamazaki",
+      "country": "JP",
+      "patents": 6787
+    },
+    {
+      "rank": 2,
+      "name": "Kia Silverbrook",
+      "country": "AU",
+      "patents": 4778
+    },
+    {
+      "rank": 3,
+      "name": "Tao Luo",
+      "country": "US",
+      "patents": 4490
+    },
+    {
+      "rank": 4,
+      "name": "Jonathan P. Ive",
+      "country": "US",
+      "patents": 2947
+    },
+    {
+      "rank": 5,
+      "name": "Junyi Li",
+      "country": "US",
+      "patents": 2881
+    },
+    {
+      "rank": 6,
+      "name": "Kangguo Cheng",
+      "country": "US",
+      "patents": 2835
+    },
+    {
+      "rank": 7,
+      "name": "Frederick E. Shelton, IV",
+      "country": "US",
+      "patents": 2723
+    },
+    {
+      "rank": 8,
+      "name": "Peter Gaal",
+      "country": "US",
+      "patents": 2554
+    },
+    {
+      "rank": 9,
+      "name": "Duncan Robert Kerr",
+      "country": "US",
+      "patents": 2534
+    },
+    {
+      "rank": 10,
+      "name": "Bartley K. Andre",
+      "country": "US",
+      "patents": 2478
+    },
+    {
+      "rank": 11,
+      "name": "Richard P. Howarth",
+      "country": "US",
+      "patents": 2402
+    },
+    {
+      "rank": 12,
+      "name": "Wanshi Chen",
+      "country": "US",
+      "patents": 2342
+    },
+    {
+      "rank": 13,
+      "name": "Eugene Antony Whang",
+      "country": "US",
+      "patents": 2248
+    },
+    {
+      "rank": 14,
+      "name": "Xiaoxia Zhang",
+      "country": "US",
+      "patents": 2158
+    },
+    {
+      "rank": 15,
+      "name": "Peter Russell-Clarke",
+      "country": "US",
+      "patents": 2012
+    },
+    {
+      "rank": 16,
+      "name": "Rico Z\u00f6rkend\u00f6rfer",
+      "country": "US",
+      "patents": 1993
+    },
+    {
+      "rank": 17,
+      "name": "Chen-Hua Yu",
+      "country": "TW",
+      "patents": 1981
+    },
+    {
+      "rank": 18,
+      "name": "Lowell L. Wood, JR.",
+      "country": "US",
+      "patents": 1974
+    },
+    {
+      "rank": 19,
+      "name": "Christopher J. Stringer",
+      "country": "US",
+      "patents": 1918
+    },
+    {
+      "rank": 20,
+      "name": "Esmael Hejazi Dinan",
+      "country": "US",
+      "patents": 1915
+    }
+  ],
+  "cpc_section_distribution": [
+    {
+      "cpc_section": "G",
+      "cpc_name": "Physics",
+      "patents": 2958296,
+      "percentage": 22.86
+    },
+    {
+      "cpc_section": "H",
+      "cpc_name": "Electricity",
+      "patents": 2762344,
+      "percentage": 21.34
+    },
+    {
+      "cpc_section": "B",
+      "cpc_name": "Operations & Transport",
+      "patents": 1742655,
+      "percentage": 13.46
+    },
+    {
+      "cpc_section": "A",
+      "cpc_name": "Human Necessities",
+      "patents": 1505834,
+      "percentage": 11.64
+    },
+    {
+      "cpc_section": "Y",
+      "cpc_name": "Emerging Technologies",
+      "patents": 1468373,
+      "percentage": 11.35
+    },
+    {
+      "cpc_section": "C",
+      "cpc_name": "Chemistry & Metallurgy",
+      "patents": 1211738,
+      "percentage": 9.36
+    },
+    {
+      "cpc_section": "F",
+      "cpc_name": "Mechanical Engineering",
+      "patents": 871881,
+      "percentage": 6.74
+    },
+    {
+      "cpc_section": "E",
+      "cpc_name": "Fixed Constructions",
+      "patents": 307623,
+      "percentage": 2.38
+    },
+    {
+      "cpc_section": "D",
+      "cpc_name": "Textiles & Paper",
+      "patents": 113413,
+      "percentage": 0.88
+    }
+  ],
+  "grant_lag_by_cpc": [
+    {
+      "cpc_section": "A",
+      "cpc_name": "Human Necessities",
+      "patent_count": 1473810,
+      "avg_grant_lag_days": 1045,
+      "avg_grant_lag_years": 2.86
+    },
+    {
+      "cpc_section": "C",
+      "cpc_name": "Chemistry & Metallurgy",
+      "patent_count": 1173118,
+      "avg_grant_lag_days": 1039,
+      "avg_grant_lag_years": 2.84
+    },
+    {
+      "cpc_section": "G",
+      "cpc_name": "Physics",
+      "patent_count": 2904031,
+      "avg_grant_lag_days": 1031,
+      "avg_grant_lag_years": 2.82
+    },
+    {
+      "cpc_section": "H",
+      "cpc_name": "Electricity",
+      "patent_count": 2714160,
+      "avg_grant_lag_days": 1010,
+      "avg_grant_lag_years": 2.77
+    },
+    {
+      "cpc_section": "Y",
+      "cpc_name": "Emerging Technologies",
+      "patent_count": 1433379,
+      "avg_grant_lag_days": 985,
+      "avg_grant_lag_years": 2.7
+    },
+    {
+      "cpc_section": "B",
+      "cpc_name": "Operations & Transport",
+      "patent_count": 1695533,
+      "avg_grant_lag_days": 959,
+      "avg_grant_lag_years": 2.62
+    },
+    {
+      "cpc_section": "D",
+      "cpc_name": "Textiles & Paper",
+      "patent_count": 108399,
+      "avg_grant_lag_days": 939,
+      "avg_grant_lag_years": 2.57
+    },
+    {
+      "cpc_section": "F",
+      "cpc_name": "Mechanical Engineering",
+      "patent_count": 848897,
+      "avg_grant_lag_days": 933,
+      "avg_grant_lag_years": 2.56
+    },
+    {
+      "cpc_section": "E",
+      "cpc_name": "Fixed Constructions",
+      "patent_count": 298963,
+      "avg_grant_lag_days": 914,
+      "avg_grant_lag_years": 2.5
+    }
+  ],
+  "grant_lag_by_country": [
+    {
+      "country": "US",
+      "patent_count": 5029646,
+      "avg_grant_lag_days": 938,
+      "avg_grant_lag_years": 2.57
+    },
+    {
+      "country": "JP",
+      "patent_count": 1575316,
+      "avg_grant_lag_days": 979,
+      "avg_grant_lag_years": 2.68
+    },
+    {
+      "country": "DE",
+      "patent_count": 618995,
+      "avg_grant_lag_days": 1052,
+      "avg_grant_lag_years": 2.88
+    },
+    {
+      "country": "CN",
+      "patent_count": 488508,
+      "avg_grant_lag_days": 925,
+      "avg_grant_lag_years": 2.53
+    },
+    {
+      "country": "KR",
+      "patent_count": 433325,
+      "avg_grant_lag_days": 999,
+      "avg_grant_lag_years": 2.73
+    },
+    {
+      "country": "TW",
+      "patent_count": 321924,
+      "avg_grant_lag_days": 804,
+      "avg_grant_lag_years": 2.2
+    },
+    {
+      "country": "GB",
+      "patent_count": 289021,
+      "avg_grant_lag_days": 1071,
+      "avg_grant_lag_years": 2.93
+    },
+    {
+      "country": "CA",
+      "patent_count": 263075,
+      "avg_grant_lag_days": 986,
+      "avg_grant_lag_years": 2.7
+    },
+    {
+      "country": "FR",
+      "patent_count": 246592,
+      "avg_grant_lag_days": 1094,
+      "avg_grant_lag_years": 3.0
+    },
+    {
+      "country": "CH",
+      "patent_count": 117903,
+      "avg_grant_lag_days": 1044,
+      "avg_grant_lag_years": 2.86
+    },
+    {
+      "country": "IN",
+      "patent_count": 116255,
+      "avg_grant_lag_days": 1036,
+      "avg_grant_lag_years": 2.84
+    },
+    {
+      "country": "IT",
+      "patent_count": 110795,
+      "avg_grant_lag_days": 1014,
+      "avg_grant_lag_years": 2.78
+    },
+    {
+      "country": "NL",
+      "patent_count": 99201,
+      "avg_grant_lag_days": 1104,
+      "avg_grant_lag_years": 3.02
+    },
+    {
+      "country": "IL",
+      "patent_count": 97595,
+      "avg_grant_lag_days": 1088,
+      "avg_grant_lag_years": 2.98
+    },
+    {
+      "country": "SE",
+      "patent_count": 94619,
+      "avg_grant_lag_days": 1141,
+      "avg_grant_lag_years": 3.12
+    },
+    {
+      "country": "AU",
+      "patent_count": 73642,
+      "avg_grant_lag_days": 1082,
+      "avg_grant_lag_years": 2.96
+    },
+    {
+      "country": "BE",
+      "patent_count": 51174,
+      "avg_grant_lag_days": 1103,
+      "avg_grant_lag_years": 3.02
+    },
+    {
+      "country": "AT",
+      "patent_count": 47945,
+      "avg_grant_lag_days": 1064,
+      "avg_grant_lag_years": 2.91
+    },
+    {
+      "country": "FI",
+      "patent_count": 44986,
+      "avg_grant_lag_days": 1224,
+      "avg_grant_lag_years": 3.35
+    },
+    {
+      "country": "DK",
+      "patent_count": 37135,
+      "avg_grant_lag_days": 1127,
+      "avg_grant_lag_years": 3.09
+    }
+  ],
+  "claims_per_year": [
+    {
+      "year": 1976,
+      "patent_count": 71046,
+      "avg_claims": 9.48
+    },
+    {
+      "year": 1977,
+      "patent_count": 71543,
+      "avg_claims": 9.69
+    },
+    {
+      "year": 1978,
+      "patent_count": 71046,
+      "avg_claims": 9.74
+    },
+    {
+      "year": 1979,
+      "patent_count": 71120,
+      "avg_claims": 9.74
+    },
+    {
+      "year": 1980,
+      "patent_count": 72129,
+      "avg_claims": 9.74
+    },
+    {
+      "year": 1981,
+      "patent_count": 69238,
+      "avg_claims": 9.92
+    },
+    {
+      "year": 1982,
+      "patent_count": 70781,
+      "avg_claims": 9.97
+    },
+    {
+      "year": 1983,
+      "patent_count": 67612,
+      "avg_claims": 10.35
+    },
+    {
+      "year": 1984,
+      "patent_count": 73596,
+      "avg_claims": 10.43
+    },
+    {
+      "year": 1985,
+      "patent_count": 78472,
+      "avg_claims": 10.6
+    },
+    {
+      "year": 1986,
+      "patent_count": 81997,
+      "avg_claims": 10.93
+    },
+    {
+      "year": 1987,
+      "patent_count": 89163,
+      "avg_claims": 11.2
+    },
+    {
+      "year": 1988,
+      "patent_count": 98294,
+      "avg_claims": 11.45
+    },
+    {
+      "year": 1989,
+      "patent_count": 104499,
+      "avg_claims": 11.73
+    },
+    {
+      "year": 1990,
+      "patent_count": 108566,
+      "avg_claims": 11.93
+    },
+    {
+      "year": 1991,
+      "patent_count": 109592,
+      "avg_claims": 11.97
+    },
+    {
+      "year": 1992,
+      "patent_count": 113347,
+      "avg_claims": 12.32
+    },
+    {
+      "year": 1993,
+      "patent_count": 118370,
+      "avg_claims": 12.79
+    },
+    {
+      "year": 1994,
+      "patent_count": 135178,
+      "avg_claims": 13.29
+    },
+    {
+      "year": 1995,
+      "patent_count": 157411,
+      "avg_claims": 14.1
+    },
+    {
+      "year": 1996,
+      "patent_count": 158433,
+      "avg_claims": 14.47
+    },
+    {
+      "year": 1997,
+      "patent_count": 184236,
+      "avg_claims": 15.24
+    },
+    {
+      "year": 1998,
+      "patent_count": 183966,
+      "avg_claims": 15.64
+    },
+    {
+      "year": 1999,
+      "patent_count": 197162,
+      "avg_claims": 16.3
+    },
+    {
+      "year": 2000,
+      "patent_count": 214632,
+      "avg_claims": 16.78
+    },
+    {
+      "year": 2001,
+      "patent_count": 228021,
+      "avg_claims": 17.44
+    },
+    {
+      "year": 2002,
+      "patent_count": 228953,
+      "avg_claims": 17.4
+    },
+    {
+      "year": 2003,
+      "patent_count": 220579,
+      "avg_claims": 17.08
+    },
+    {
+      "year": 2004,
+      "patent_count": 221454,
+      "avg_claims": 16.72
+    },
+    {
+      "year": 2005,
+      "patent_count": 226484,
+      "avg_claims": 15.29
+    },
+    {
+      "year": 2006,
+      "patent_count": 231707,
+      "avg_claims": 15.4
+    },
+    {
+      "year": 2007,
+      "patent_count": 240271,
+      "avg_claims": 15.13
+    },
+    {
+      "year": 2008,
+      "patent_count": 241976,
+      "avg_claims": 14.81
+    },
+    {
+      "year": 2009,
+      "patent_count": 233384,
+      "avg_claims": 14.68
+    },
+    {
+      "year": 2010,
+      "patent_count": 248378,
+      "avg_claims": 14.67
+    },
+    {
+      "year": 2011,
+      "patent_count": 268845,
+      "avg_claims": 14.72
+    },
+    {
+      "year": 2012,
+      "patent_count": 294135,
+      "avg_claims": 14.87
+    },
+    {
+      "year": 2013,
+      "patent_count": 313037,
+      "avg_claims": 14.79
+    },
+    {
+      "year": 2014,
+      "patent_count": 322941,
+      "avg_claims": 14.71
+    },
+    {
+      "year": 2015,
+      "patent_count": 335504,
+      "avg_claims": 14.6
+    },
+    {
+      "year": 2016,
+      "patent_count": 347506,
+      "avg_claims": 14.59
+    },
+    {
+      "year": 2017,
+      "patent_count": 362810,
+      "avg_claims": 14.64
+    },
+    {
+      "year": 2018,
+      "patent_count": 368381,
+      "avg_claims": 14.77
+    },
+    {
+      "year": 2019,
+      "patent_count": 390248,
+      "avg_claims": 14.88
+    },
+    {
+      "year": 2020,
+      "patent_count": 367541,
+      "avg_claims": 15.03
+    },
+    {
+      "year": 2021,
+      "patent_count": 330843,
+      "avg_claims": 14.99
+    },
+    {
+      "year": 2022,
+      "patent_count": 270944,
+      "avg_claims": 14.75
+    },
+    {
+      "year": 2023,
+      "patent_count": 182698,
+      "avg_claims": 14.03
+    },
+    {
+      "year": 2024,
+      "patent_count": 74525,
+      "avg_claims": 11.94
+    },
+    {
+      "year": 2025,
+      "patent_count": 8758,
+      "avg_claims": 9.9
+    }
+  ],
+  "claims_by_cpc": [
+    {
+      "cpc_section": "G",
+      "cpc_name": "Physics",
+      "patent_count": 2958296,
+      "avg_claims": 17.12
+    },
+    {
+      "cpc_section": "H",
+      "cpc_name": "Electricity",
+      "patent_count": 2762344,
+      "avg_claims": 16.61
+    },
+    {
+      "cpc_section": "A",
+      "cpc_name": "Human Necessities",
+      "patent_count": 1505834,
+      "avg_claims": 15.89
+    },
+    {
+      "cpc_section": "E",
+      "cpc_name": "Fixed Constructions",
+      "patent_count": 307623,
+      "avg_claims": 15.21
+    },
+    {
+      "cpc_section": "Y",
+      "cpc_name": "Emerging Technologies",
+      "patent_count": 1468373,
+      "avg_claims": 15.05
+    },
+    {
+      "cpc_section": "C",
+      "cpc_name": "Chemistry & Metallurgy",
+      "patent_count": 1211738,
+      "avg_claims": 15.0
+    },
+    {
+      "cpc_section": "B",
+      "cpc_name": "Operations & Transport",
+      "patent_count": 1742655,
+      "avg_claims": 14.49
+    },
+    {
+      "cpc_section": "D",
+      "cpc_name": "Textiles & Paper",
+      "patent_count": 113413,
+      "avg_claims": 14.36
+    },
+    {
+      "cpc_section": "F",
+      "cpc_name": "Mechanical Engineering",
+      "patent_count": 871881,
+      "avg_claims": 13.96
+    }
+  ]
+}
