@@ -8,6 +8,10 @@ data/raw
 patents.db
 data/clean/cpc_stage.db
 data/clean/clean_patents.csv
+data/clean/clean_companies.csv
+data/clean/clean_inventors.csv
+data/clean/
+
 
 
 # Distribution / packaging
