@@ -13,6 +13,8 @@ A full end-to-end data engineering and analytics project that transforms raw USP
 
 ---
 
+**NOTE**: I could not upload the clean data to the GitHub due to the large size so I opted for Kaggle
+
 ## What It Does
 
 1. **Cleans** raw USPTO PatentsView TSV files — validates dates, resolves assignees, disambiguates inventors
