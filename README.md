@@ -9,7 +9,7 @@ A full end-to-end data engineering and analytics project that transforms raw USP
 | Live Dashboard | https://patent-data-analysis-ygnkndq4nssravke3h6dre.streamlit.app/ |
 | GitHub | https://github.com/Karagwa/patent-data-analysis |
 | Kaggle Clean Datasets (inventor, company, etc) | https://www.kaggle.com/datasets/karagwaanntreasure/clean-patent-data |
-| clean_patents.csv | Uploading soon — 7 GB file |
+| clean_patents.csv | https://www.kaggle.com/datasets/karagwaanntreasure/clean-patents |
 
 ---
 
